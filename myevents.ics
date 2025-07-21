@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20250626T102414Z
+UID:1750933394059-15732@ical.marudot.com
+DTSTART;VALUE=DATE:20260117
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20260130T230000Z
+DTEND;VALUE=DATE:20260118
+SUMMARY:RSVP zu der Hochzeit von Tsveti und Donat
+URL:www.tsvetnat.de
+DESCRIPTION:Ich muss zur Webseite von Tsveti und Donat gehen (tsvetnat.de) und in der Form schreiben\, dass ich kommen werde!
+END:VEVENT
+END:VCALENDAR
